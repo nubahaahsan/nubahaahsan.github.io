@@ -5,7 +5,7 @@ title: Nubaha Ahsan
 
 # 👋 Hello!
 
-I'm **Nubaha Ahsan**, a student of Behavioral Neuroscience & Data Science at Northeastern University.
+I'm **Nubaha Ahsan**, a Data Science and Behavioral Neuroscience student at Northeastern University. I am graduating in December 2026. 
 
 ## 📄 Resume
 
